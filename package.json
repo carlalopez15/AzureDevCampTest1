@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Proranked/Cloud-Camp-Tutorial/issues"
   },
-  "homepage": "https://github.com/Proranked/Cloud-Camp-Tutorial"
+  "homepage": "https://github.com/Proranked/Cloud-Camp-Tutorial",
+  "dependencies": {
+    "express": "^4.10.1"
+  }
 }
